@@ -23,7 +23,7 @@ Combines combinatorial matching with reinforcement learning for dynamic vehicle 
 [**Why Rational AI Agents Fail to Cooperate**](https://agentic0000.substack.com/p/agents-and-game-theory-4-why-rational)  
 [**Mechanism Design: Design the Rules, Not Just the Players**](https://agentic0000.substack.com/p/agents-and-game-theory-5-mechanism)  
 
-### Systems / physical constraints
+### Physical constraints
 Token price breakdown for LLMs: \
 [**Serving Cost, Token Usage, and Counterfactual Optimization Across Frontier Models**](https://github.com/MengqiLi0000/writing/blob/main/inference-serving-economics.md)  
 [**Quality-Adjusted Price Index**](https://github.com/MengqiLi0000/writing/blob/main/quality_adjusted_price_index.md)  \
