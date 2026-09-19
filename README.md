@@ -17,22 +17,13 @@ Combines combinatorial matching with reinforcement learning for dynamic vehicle 
 
 ## Writing
 
-### Agents / game theory
+### Agents / game theory / theory of mind
 
 [**What Is an Agent?**](https://substack.com/home/post/p-216034855)  
-A definition of agency in terms of state, objectives, actions, and decision-making.
-
 [**When Another Agent Appears**](https://substack.com/home/post/p-216039184)  
-Strategic interaction, nested beliefs, and the shift from prediction to reasoning about other agents.
-
 [**Nash Equilibrium for AI Agents**](https://substack.com/home/post/p-216057917)  
-Best responses, equilibrium, and stable multi-agent behavior.
-
 [**Why Rational AI Agents Fail to Cooperate**](https://agentic0000.substack.com/p/agents-and-game-theory-4-why-rational)  
-Coordination failure and poor collective outcomes under individually rational policies.
-
 [**Mechanism Design: Design the Rules, Not Just the Players**](https://agentic0000.substack.com/p/agents-and-game-theory-5-mechanism)  
-Designing incentives and interaction rules rather than optimizing agents in isolation.
 
 ### Systems / physical constraints
 Token price breakdown for LLMs: \
