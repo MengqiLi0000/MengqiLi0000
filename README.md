@@ -10,8 +10,6 @@ I like machine learning and nonparametric statistics. I also build and train mod
 [**A Geometry-Driven Framework for Estimating the Spatial Weight Matrix in SAR Models**](https://drive.google.com/file/d/1EVTb_Ufv2tYJKVwT6sULTnITQc43cGlf/view)  
 A geometry-based approach to estimating spatial interaction structure 
 
-[**Bootstrap Inference under Serial and Cross-Sectional Dependence in Panel Data**](https://drive.google.com/file/d/1Iikr7crEVpEnjwM1anerJ1C7s6O2lteK/view)  
-
 [**Research on Vehicle Dispatch Problem Based on Kuhn-Munkres and Reinforcement Learning Algorithm**](https://ieeexplore.ieee.org/document/9362615)  
 Combines combinatorial matching with reinforcement learning for dynamic vehicle dispatch.
 
