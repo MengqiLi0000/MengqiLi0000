@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Mengqi [MON-chee]
 I like machine learning and nonparametric statistics. I also build and train models. 
+I enjoy studying shapes, space and time, so my subinterests are geometry and spatiotemporal analysis.
 
 ## Research
 
