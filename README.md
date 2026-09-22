@@ -15,6 +15,12 @@ A geometry-based approach to estimating spatial interaction structure
 Combines combinatorial matching with reinforcement learning for dynamic vehicle dispatch.
 
 ## Writing
+### Machine Learning 
+[**What Are We Optimizing?**](https://substack.com/home/post/p-216823248)
+[**Regularization**](https://substack.com/home/post/p-216824182)
+[**Optimization**](https://substack.com/home/post/p-216829538)
+[**Data and Sampling**](https://agentic0000.substack.com/p/from-objective-to-system-4-data-and)
+
 
 ### Agents / game theory / theory of mind
 
