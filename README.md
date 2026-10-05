@@ -15,6 +15,11 @@ A geometry-based approach to estimating spatial interaction structure
 [**Research on Vehicle Dispatch Problem Based on Kuhn-Munkres and Reinforcement Learning Algorithm**](https://ieeexplore.ieee.org/document/9362615)  
 Combines combinatorial matching with reinforcement learning for dynamic vehicle dispatch.
 
+## Project Demo
+<img width="1280" height="800" alt="RAG router" src="https://github.com/user-attachments/assets/00af0c63-e553-4b80-9d9b-0b31f8d7d1d2" />
+<img width="1280" height="800" alt="feature governence" src="https://github.com/user-attachments/assets/e037ca03-501e-4912-a3a4-6912f025e17f" />
+
+
 ## Writing
 ### Machine Learning 
 [**What Are We Optimizing?**](https://substack.com/home/post/p-216823248)
