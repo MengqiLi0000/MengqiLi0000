@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Mengqi [MON-chee]
 I like machine learning and nonparametric statistics. I also build and train models. \
 I enjoy studying shapes, space and time, so my subinterests are geometry and spatiotemporal analysis. \
-I value simplicity, peace and stewardship
+I value simplicity, peace and stewardship. 
 
 ## Research
 
@@ -15,10 +15,30 @@ A geometry-based approach to estimating spatial interaction structure
 [**Research on Vehicle Dispatch Problem Based on Kuhn-Munkres and Reinforcement Learning Algorithm**](https://ieeexplore.ieee.org/document/9362615)  
 Combines combinatorial matching with reinforcement learning for dynamic vehicle dispatch.
 
-## Project Demo
-<img width="1280" height="800" alt="RAG router" src="https://github.com/user-attachments/assets/00af0c63-e553-4b80-9d9b-0b31f8d7d1d2" />
-<img width="1280" height="800" alt="feature governence" src="https://github.com/user-attachments/assets/e037ca03-501e-4912-a3a4-6912f025e17f" />
+## Project Demos
 
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>RAG Model Router</strong><br><br>
+      <img width="100%" alt="RAG model router" src="https://github.com/user-attachments/assets/00af0c63-e553-4b80-9d9b-0b31f8d7d1d2">
+    </td>
+    <td align="center" width="50%">
+      <strong>Feature Governance</strong><br><br>
+      <img width="100%" alt="Feature governance" src="https://github.com/user-attachments/assets/e037ca03-501e-4912-a3a4-6912f025e17f">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Paper Graph</strong><br><br>
+      <img width="100%" alt="Paper graph" src="https://github.com/user-attachments/assets/c2bad452-7f12-4b93-9379-35bdb934077a">
+    </td>
+    <td align="center" width="50%">
+      <strong>Math Notation Explainer</strong><br><br>
+      <img width="100%" alt="Math notation explainer" src="https://github.com/user-attachments/assets/03b2f025-e165-4035-9c4f-180b6b5a5e18">
+    </td>
+  </tr>
+</table>
 
 ## Writing
 ### Machine Learning 
