@@ -39,3 +39,4 @@ Cool spheres: \
 [**Spherical Codes**](https://github.com/MengqiLi0000/writing/blob/main/spherical%20codes.md)  \
 Cool paper-folding:\
 [**Origami Hardware**](https://github.com/MengqiLi0000/writing/blob/main/origami_hardware.md)  
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=MengqiLi0000)](https://github.com/stats-organization/github-stats-extended)
