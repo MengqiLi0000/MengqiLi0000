@@ -1,7 +1,8 @@
-## Hi there 👋 I'm Mengqi [MON-chee]
+## Hi there 👋 I'm Mengqi [MON-chee] ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=MengqiLi0000&theme=nord)
 I like machine learning and nonparametric statistics. I also build and train models. \
 I enjoy studying shapes, space and time, so my subinterests are geometry and spatiotemporal analysis. \
 I value simplicity, peace and stewardship. 
+
 
 ## Research
 
